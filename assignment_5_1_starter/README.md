@@ -1,6 +1,5 @@
 Link to the Jupyter Notebook:
-https://github.com/selvamani-ramasamy/bebh/assignment_5_1_starter/assignment_5_1_starter_selva.ipynb
-
+https://github.com/selvamani-ramasamy/bebh/blob/main/assignment_5_1_starter/assignment_5_1_starter_selva.ipynb
 
 ### Will a Customer Accept the Coupon?
 
@@ -16,11 +15,11 @@ The goal of this project is to use what you know about visualizations and probab
 
 **Data**
 
-This data comes to us from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver. Answers that the user will drive there ‘right away’ or ‘later before the coupon expires’ are labeled as ‘Y = 1’ and answers ‘no, I do not want the coupon’ are labeled as ‘Y = 0’.  There are five different types of coupons -- less expensive restaurants (under \\$20), coffee houses, carry out & take away, bar, and more expensive restaurants (\\$20 - \\$50). 
+This data comes to us from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver. Answers that the user will drive there ‘right away’ or ‘later before the coupon expires’ are labeled as ‘Y = 1’ and answers ‘no, I do not want the coupon’ are labeled as ‘Y = 0’.  There are five different types of coupons -- less expensive restaurants (under \\$20), coffee houses, carry out & take away, bar, and more expensive restaurants (\\$20 - \\$50).
 
 **Deliverables**
 
-Your final product should be a brief report that highlights the differences between customers who did and did not accept the coupons.  To explore the data you will utilize your knowledge of plotting, statistical summaries, and visualization using Python. You will publish your findings in a public facing github repository as your first portfolio piece. 
+Your final product should be a brief report that highlights the differences between customers who did and did not accept the coupons.  To explore the data you will utilize your knowledge of plotting, statistical summaries, and visualization using Python. You will publish your findings in a public facing github repository as your first portfolio piece.
 
 7.  Based on these observations, what do you hypothesize about drivers who accepted the bar coupons?
 
@@ -73,5 +72,3 @@ Your final product should be a brief report that highlights the differences betw
 - Warm weather (80F) appears to be slightly indicative of accepting a coupon in the aggregate population, and likewise appears to be an indicator for CoffeeHouse coupons specifically.
 - Based on this preliminary analysis, it appears Amazon should focus marketing efforts for CoffeeHouse coupons on those individuals visiting a coffee house once per month or more. Amazon may prefer to prioritize a younger population and warmer weather.
 - Occupation also appears to be a very strong indicator of both whether an individual receives a coupon and whether the individual accepts the coupon.
-
-
